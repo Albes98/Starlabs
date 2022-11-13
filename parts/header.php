@@ -17,9 +17,9 @@
         </div>
     </div>
 </header>
-<nav class="navbar" data-spy="affix" data-offset-top="510">
+<nav class="navbar">
     <div class="navbar-container">
-        <div class="navbar-child" id="navbarSupportedContent">
+        <div class="navbar-child">
             <ul class="navbar-left">
                 <li class="navbar-left-item">
                     <a href="#home" class="nav-link">Home</a>
@@ -34,7 +34,7 @@
                     <div class="brand-subtitle">Web Designer | Developer</div>
                 </li>
             </ul>
-            <ul class="navbar-left ml-auto">
+            <ul class="navbar-left">
                 <li class="navbar-left-item">
                     <a href="#portfolio" class="nav-link">Portfolio</a>
                 </li>

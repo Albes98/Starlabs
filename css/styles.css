@@ -339,6 +339,10 @@ ul {
     align-items: center;
 }
 
+.contact-items h6 {
+    margin: 10px 0;
+}
+
 .contact-right, .contact-left {
     padding: 20px;
     box-shadow: 0 1px 10px rgb(54 54 54 / 18%);

@@ -27,7 +27,7 @@
                             <i class="fa-solid fa-phone"></i>
                         </div>
                         <div class="ml-2">
-                            <h6 class="d-inline">Phone : <br> <span class="text-gray">+ (123) 456-789</span></h6>
+                            <h6>Phone : <br> <span class="text-gray">: + 383 44 888 980</span></h6>
                         </div>
                     </div>
                     <div class="contact-items">
@@ -35,7 +35,7 @@
                             <i class="fa-solid fa-address-book"></i>
                         </div>
                         <div class="ml-2">
-                            <h6 class="d-inline">Address :<br> <span class="text-gray">12345 Fake ST NoWhere AB Country.</span></h6>
+                            <h6>Address :<br> <span class="text-gray">12345 Fake ST NoWhere AB Country.</span></h6>
                         </div>
                     </div>
                     <div class="contact-items">
@@ -43,7 +43,7 @@
                             <i class="fa-solid fa-envelope"></i>
                         </div>
                         <div class="ml-2">
-                            <h6 class="d-inline">Email :<br> <span class="text-gray">info@website.com</span></h6>
+                            <h6>Email :<br> <span class="text-gray">albes44321@gmail.com</span></h6>
                         </div>
                     </div>
                     <ul class="social-icons social-icons-contact">
