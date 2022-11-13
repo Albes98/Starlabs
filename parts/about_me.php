@@ -7,7 +7,7 @@
             <p>I am a structural Engineer and hopefully become a web developer</p>
             <button class="button"><i class="fa-solid fa-download"></i><span class="ml-1">Download My CV</span></button>
         </div>
-        <div class="about-card"> asdas
+        <div class="about-card">
             <h3>Personal Info</h3>
             <span class="line"></span>
             <ul>
